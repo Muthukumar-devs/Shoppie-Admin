@@ -1,0 +1,18 @@
+name,description,price,mrp,stock,categoryName,subCategoryName,brand,discount,isActive,highlights,specifications
+Ergonomic Office Chair,Comfortable office chair with lumbar support,4999,5999,50,Furniture,Chairs,IKEA,16,true,"Adjustable height, Lumbar support, Breathable mesh","Color:Black
+Material:Mesh
+Weight:12kg"
+Dining Table Chair,Wooden dining chair,2499,3499,100,Furniture,Chairs,WoodCraft,28,true,"Solid wood, Premium finish, Durable","Color:Brown
+Material:Wood"
+The Great Gatsby,Classic fiction novel by F. Scott Fitzgerald,299,399,200,Books,Fiction,Penguin,25,true,"Classic novel, Paperback, Unabridged","Format:Paperback
+Pages:180
+Language:English"
+1984,Dystopian novel by George Orwell,349,499,150,Books,Fiction,Signet,30,true,"Dystopian, Classic, Paperback","Format:Paperback
+Pages:328
+Language:English"
+Organic Almonds,Premium quality organic almonds,899,1200,80,Groceries,Snacks,NutriChoice,25,true,"100% Organic, High Protein, No Preservatives","Weight:500g
+Type:Almonds
+Diet:Vegetarian"
+Potato Chips,Crispy salted potato chips,40,50,500,Groceries,Snacks,Lays,20,true,"Crispy, Classic Salted, Snack","Weight:100g
+Flavor:Salted
+Diet:Vegetarian"
