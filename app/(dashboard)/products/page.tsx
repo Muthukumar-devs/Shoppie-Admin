@@ -533,8 +533,10 @@ export default function ProductsPage() {
         open={bulkModalOpen}
         onClose={() => setBulkModalOpen(false)}
         title="Bulk Upload Products"
-        csvHint="name, description, price, mrp, stock, categoryName, subCategoryName (opt), brand (opt), discount (opt), isActive (opt)"
-        csvExample={`name,description,price,mrp,stock,categoryName,subCategoryName,brand,discount,isActive\niPhone 15,Apple smartphone,79999,89999,50,Electronics,Phones,Apple,,true\nPlain T-Shirt,Cotton t-shirt,499,999,200,Clothing,,,,true`}
+        csvHint="name, description, price, mrp, stock, categoryName, subCategoryName (opt), brand (opt), discount (opt), isActive (opt), highlights (opt), specifications (opt)"
+        csvExample={`name,description,price,mrp,stock,categoryName,subCategoryName,brand,discount,isActive,highlights,specifications
+iPhone 15,Apple smartphone,79999,89999,50,Electronics,Phones,Apple,,true,6GB RAM|128GB Storage|5G Support,Color:Black|Storage:128GB|Warranty:1 year
+Plain T-Shirt,Cotton t-shirt,499,999,200,Clothing,,,,true,100% Cotton|Machine Washable,`}
         sampleFile="/csv-samples/products.csv"
         onUpload={async (file) => {
           const res = await bulkUploadProducts(file);

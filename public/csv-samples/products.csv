@@ -1,18 +1,7 @@
 name,description,price,mrp,stock,categoryName,subCategoryName,brand,discount,isActive,highlights,specifications
-Ergonomic Office Chair,Comfortable office chair with lumbar support,4999,5999,50,Furniture,Chairs,IKEA,16,true,"Adjustable height, Lumbar support, Breathable mesh","Color:Black
-Material:Mesh
-Weight:12kg"
-Dining Table Chair,Wooden dining chair,2499,3499,100,Furniture,Chairs,WoodCraft,28,true,"Solid wood, Premium finish, Durable","Color:Brown
-Material:Wood"
-The Great Gatsby,Classic fiction novel by F. Scott Fitzgerald,299,399,200,Books,Fiction,Penguin,25,true,"Classic novel, Paperback, Unabridged","Format:Paperback
-Pages:180
-Language:English"
-1984,Dystopian novel by George Orwell,349,499,150,Books,Fiction,Signet,30,true,"Dystopian, Classic, Paperback","Format:Paperback
-Pages:328
-Language:English"
-Organic Almonds,Premium quality organic almonds,899,1200,80,Groceries,Snacks,NutriChoice,25,true,"100% Organic, High Protein, No Preservatives","Weight:500g
-Type:Almonds
-Diet:Vegetarian"
-Potato Chips,Crispy salted potato chips,40,50,500,Groceries,Snacks,Lays,20,true,"Crispy, Classic Salted, Snack","Weight:100g
-Flavor:Salted
-Diet:Vegetarian"
+Ergonomic Stool,Modern adjustable swivel stool for draft desks and standing desks,5499,6999,25,Furniture,Chairs,SteelCase,21,true,360-degree swivel|Adjustable height|Footrest ring,Color:Grey|Material:Polyester|Weight:8kg
+Recliner Chair,Plush leather recliner chair with manual massage function,18999,24999,10,Furniture,Chairs,LazyBoy,24,true,Genuine leather|Manual recline|Massage and heat functions,Color:Black|Material:Leather|Weight:35kg
+Frankenstein,Classic gothic horror science fiction novel by Mary Shelley,149,199,300,Books,Fiction,Signet Classics,25,true,Classic novel|Paperback|Gothic fiction,Format:Paperback|Pages:288|Language:English
+The Hobbit,Classic high fantasy novel by J.R.R. Tolkien,399,499,180,Books,Fiction,HarperCollins,20,true,Classic fantasy|Paperback|Illustrated cover,Format:Paperback|Pages:310|Language:English
+Gummy Bears,Assorted fruit flavored chewy gummy candies,120,150,500,Groceries,Snacks,Haribo,20,true,Fruit juices|Chewy texture|Gluten-free,Weight:200g|Flavor:Fruit Mix|Diet:Non-Vegetarian
+Tortilla Chips,Crispy corn tortilla chips with nacho cheese flavor,85,99,450,Groceries,Snacks,Doritos,14,true,Nacho cheese|Crispy texture|Perfect party snack,Weight:150g|Flavor:Cheese|Diet:Vegetarian
